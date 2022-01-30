@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983753935193",
+    "project_id": "callvedioapp",
+    "storage_bucket": "callvedioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983753935193:android:eed53ac9929a3a9e2ca448",
+        "android_client_info": {
+          "package_name": "com.example.gettogetherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983753935193-mdsvqk4ommrjrvtt650jevvqovvjfjgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8owDnK5YbYW5xSCue23tIcmI3sJotiAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983753935193-mdsvqk4ommrjrvtt650jevvqovvjfjgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

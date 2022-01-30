@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetTogetherApp</string>
+    <string name="text">Already have an account</string>
+    <string name="share">Please share your code to start video calling or enter the code you want to join</string>
+</resources>
